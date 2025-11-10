@@ -2,7 +2,7 @@
 
 ## Description
 The goal of this service is to behave like a search engine for services. <br>
-It should accept user inputs and return results that matched the provided service name.<br>
+It accepts user inputs and return results that matched the provided service name.<br>
 
 
 ### Data
@@ -69,7 +69,7 @@ Example output:
         },
         {
             "id": 3,
-            "name": "Massör",
+            "name": "MassÃ¶r",
             "position": {
                 "lat": 59.315887,
                 "lng": 18.081163800000013
